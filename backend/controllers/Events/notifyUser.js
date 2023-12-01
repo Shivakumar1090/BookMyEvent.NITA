@@ -1,0 +1,3 @@
+const NotifyUsers = (req,res) => {
+    
+}
